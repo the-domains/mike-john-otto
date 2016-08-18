@@ -25,12 +25,12 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/blackbeltmonkey/'
 title: Mike John Otto (@blackbeltmonkey) * Instagram photos and videos
-datePublished: '2016-08-18T14:47:21.538Z'
-dateModified: '2016-08-18T14:47:18.725Z'
+datePublished: '2016-08-18T14:48:45.328Z'
+dateModified: '2016-08-18T14:48:45.146Z'
 description: ''
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-mike-john-otto-blackbeltmonkey-instagram-photos-and-vid.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
