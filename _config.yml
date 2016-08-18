@@ -16,7 +16,3 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/938739fb-aad5-4efb-bb43-8983ef82ab11.png
 title: M/ke John Otto
 description: all my sites & content
-navigation:
-  - name: Me on Instagram
-    url: 'https://www.instagram.com/blackbeltmonkey/'
-    type: external
