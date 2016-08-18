@@ -1,16 +1,16 @@
-typography_spectrum: 0.9078005545306951
+typography_spectrum: 0.26000780356116593
 color:
-  brandStrength: 0.5269875302910805
-  lightness: 0.6547714320477098
-  saturation: 0.6462305723689497
-  rhythmicContrast: 0.61645423527807
+  brandStrength: 0.9359251938294619
+  lightness: 0.5844649788923562
+  saturation: 0.024364358047023416
+  rhythmicContrast: 0.24588489555753767
   brandColors:
-    - '#EFEDEE'
-    - '#010000'
-    - '#7B7A78'
-    - '#4F4E4E'
-    - '#007200'
-layout_spectrum: 0.1918481681495905
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.854047475848347
 name: Mike John Otto
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/938739fb-aad5-4efb-bb43-8983ef82ab11.png
