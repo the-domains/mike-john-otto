@@ -16,3 +16,7 @@ title: M/ke John Otto
 description: all my sites & content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/938739fb-aad5-4efb-bb43-8983ef82ab11.png
+navigation:
+  - name: Portfolio
+    id: 6bfd58f5-9603-4eed-9682-dc4e66cb9586
+    type: content
