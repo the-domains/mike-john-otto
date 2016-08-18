@@ -1,4 +1,3 @@
-layout_spectrum: 0.7054670955985785
 typography_spectrum: 0.5743792003486305
 color:
   brandStrength: 0.10930547444149852
@@ -6,9 +5,11 @@ color:
   saturation: 0.8641200989950448
   rhythmicContrast: 0.04104744270443916
   brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+layout_spectrum: 0.7054670955985785
 name: Mike John Otto
+title: M/ke John Otto
