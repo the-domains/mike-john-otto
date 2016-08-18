@@ -1,16 +1,16 @@
-typography_spectrum: 0.3929034066386521
+typography_spectrum: 0.9078005545306951
 color:
-  brandStrength: 0.1104254296515137
-  lightness: 0.8472372777760029
-  saturation: 0.5693116637412459
-  rhythmicContrast: 0.8098119178321213
+  brandStrength: 0.5269875302910805
+  lightness: 0.6547714320477098
+  saturation: 0.6462305723689497
+  rhythmicContrast: 0.61645423527807
   brandColors:
-    - '#FFFFFF'
-    - '#EA202D'
-    - '#0E0E0E'
-    - '#ACA299'
-    - '#EF666D'
-layout_spectrum: 0.5430090574081987
+    - '#EFEDEE'
+    - '#010000'
+    - '#7B7A78'
+    - '#4F4E4E'
+    - '#007200'
+layout_spectrum: 0.1918481681495905
 name: Mike John Otto
 title: M/ke John Otto
 description: all my sites & content
