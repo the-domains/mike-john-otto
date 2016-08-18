@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[M/ke John Otto]]></title>
         <description><![CDATA[M/ke John Otto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mike-john-otto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 13:30:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 13:30:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mike-john-otto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Portfolio of Executive Creative Director Mike John Otto. Works at Philipp und Keuntje, before at Hi-ReS!, Razorfish, Interone and blackbeltmonkey.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/56068772805350f0d0453492464f0dea/noop.png?input=http%3A%2F%2Fwww.blackbeltmonkey.com%2Fwp-content%2Fuploads%2F2015%2F08%2Flogo_light.png"></article>]]></description>
+            <link>http://www.mikejohnotto.com</link>
+            <guid isPermaLink="false">6bfd58f5-9603-4eed-9682-dc4e66cb9586</guid>
+            <pubDate>Thu, 18 Aug 2016 13:30:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f825b3b0-f7e7-4e21-9dc3-30e1079a0fe0.png">]]></description>
-            <link>undefined81d0739b-eb19-44f5-85e9-6a8c0b0097eb/index.html</link>
+            <link>https://thegrid.ai/mike-john-otto/81d0739b-eb19-44f5-85e9-6a8c0b0097eb/index.html</link>
             <guid isPermaLink="false">81d0739b-eb19-44f5-85e9-6a8c0b0097eb</guid>
             <pubDate>Thu, 18 Aug 2016 13:30:04 GMT</pubDate>
         </item>
